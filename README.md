@@ -313,14 +313,6 @@ Integrated M.Tech in Computer Science — Computational and Data Science
 
 ---
 
-## 📄 License
-
-This project is distributed under the MIT License if the repository includes an applicable `LICENSE` file.
-
-If you intend to use the MIT License, add a `LICENSE` file containing the official MIT license text and your copyright details before presenting the project as MIT-licensed.
-
----
-
 <div align="center">
 
 **Built to make machine learning risks easier to inspect, understand, and communicate.**
